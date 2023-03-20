@@ -11,8 +11,8 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
 ## Sample session
 ### Hamiltonian Cycle Problems
 ```
-$ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log                                                                  [23-03-20 15:45:29]
-$ python bin/hamilton_check.py bench/hcp/tiny/graph_example.lp hcp.log 1 1                                                                                  [23-03-20 15:45:57]
+$ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log
+$ python bin/hamilton_check.py bench/hcp/tiny/graph_example.lp hcp.log 1 1
 verify: OK
 ```
 ### Hamiltonian Cycle Reconfiguration Problems
