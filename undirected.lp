@@ -5,6 +5,6 @@
 %%% @author Mutsunori Banbara (banbara@nagoya-u.jp)
 %%%
 
-#include "src/hc1.lp".
+#include "encoding/hc1.lp".
 
 #show in/2.
