@@ -1,0 +1,657 @@
+n(114).
+e(541).
+node(1).
+node(2).
+node(3).
+node(4).
+node(5).
+node(6).
+node(7).
+node(8).
+node(9).
+node(10).
+node(11).
+node(12).
+node(13).
+node(14).
+node(15).
+node(16).
+node(17).
+node(18).
+node(19).
+node(20).
+node(21).
+node(22).
+node(23).
+node(24).
+node(25).
+node(26).
+node(27).
+node(28).
+node(29).
+node(30).
+node(31).
+node(32).
+node(33).
+node(34).
+node(35).
+node(36).
+node(37).
+node(38).
+node(39).
+node(40).
+node(41).
+node(42).
+node(43).
+node(44).
+node(45).
+node(46).
+node(47).
+node(48).
+node(49).
+node(50).
+node(51).
+node(52).
+node(53).
+node(54).
+node(55).
+node(56).
+node(57).
+node(58).
+node(59).
+node(60).
+node(61).
+node(62).
+node(63).
+node(64).
+node(65).
+node(66).
+node(67).
+node(68).
+node(69).
+node(70).
+node(71).
+node(72).
+node(73).
+node(74).
+node(75).
+node(76).
+node(77).
+node(78).
+node(79).
+node(80).
+node(81).
+node(82).
+node(83).
+node(84).
+node(85).
+node(86).
+node(87).
+node(88).
+node(89).
+node(90).
+node(91).
+node(92).
+node(93).
+node(94).
+node(95).
+node(96).
+node(97).
+node(98).
+node(99).
+node(100).
+node(101).
+node(102).
+node(103).
+node(104).
+node(105).
+node(106).
+node(107).
+node(108).
+node(109).
+node(110).
+node(111).
+node(112).
+node(113).
+node(114).
+edge(1, 2).
+edge(1, 4).
+edge(1, 20).
+edge(1, 22).
+edge(2, 3).
+edge(2, 19).
+edge(2, 21).
+edge(3, 6).
+edge(3, 14).
+edge(3, 20).
+edge(3, 24).
+edge(3, 32).
+edge(4, 5).
+edge(4, 14).
+edge(4, 19).
+edge(4, 23).
+edge(4, 32).
+edge(5, 8).
+edge(5, 15).
+edge(5, 22).
+edge(5, 26).
+edge(5, 33).
+edge(6, 7).
+edge(6, 15).
+edge(6, 21).
+edge(6, 25).
+edge(6, 33).
+edge(7, 10).
+edge(7, 16).
+edge(7, 24).
+edge(7, 28).
+edge(7, 34).
+edge(8, 9).
+edge(8, 16).
+edge(8, 23).
+edge(8, 27).
+edge(8, 34).
+edge(9, 12).
+edge(9, 17).
+edge(9, 26).
+edge(9, 30).
+edge(9, 35).
+edge(10, 11).
+edge(10, 17).
+edge(10, 25).
+edge(10, 29).
+edge(10, 35).
+edge(11, 13).
+edge(11, 18).
+edge(11, 28).
+edge(11, 31).
+edge(11, 36).
+edge(12, 13).
+edge(12, 18).
+edge(12, 27).
+edge(12, 31).
+edge(12, 36).
+edge(13, 14).
+edge(13, 15).
+edge(13, 16).
+edge(13, 17).
+edge(13, 18).
+edge(13, 29).
+edge(13, 30).
+edge(13, 32).
+edge(13, 33).
+edge(13, 34).
+edge(13, 35).
+edge(13, 36).
+edge(14, 15).
+edge(14, 16).
+edge(14, 17).
+edge(14, 18).
+edge(14, 21).
+edge(14, 22).
+edge(14, 31).
+edge(14, 33).
+edge(14, 34).
+edge(14, 35).
+edge(14, 36).
+edge(15, 16).
+edge(15, 17).
+edge(15, 18).
+edge(15, 23).
+edge(15, 24).
+edge(15, 31).
+edge(15, 32).
+edge(15, 34).
+edge(15, 35).
+edge(15, 36).
+edge(16, 17).
+edge(16, 18).
+edge(16, 25).
+edge(16, 26).
+edge(16, 31).
+edge(16, 32).
+edge(16, 33).
+edge(16, 35).
+edge(16, 36).
+edge(17, 18).
+edge(17, 27).
+edge(17, 28).
+edge(17, 31).
+edge(17, 32).
+edge(17, 33).
+edge(17, 34).
+edge(17, 36).
+edge(18, 29).
+edge(18, 30).
+edge(18, 31).
+edge(18, 32).
+edge(18, 33).
+edge(18, 34).
+edge(18, 35).
+edge(19, 38).
+edge(19, 40).
+edge(19, 110).
+edge(20, 37).
+edge(20, 39).
+edge(20, 110).
+edge(21, 38).
+edge(21, 42).
+edge(21, 50).
+edge(21, 110).
+edge(22, 37).
+edge(22, 41).
+edge(22, 50).
+edge(22, 110).
+edge(23, 40).
+edge(23, 44).
+edge(23, 51).
+edge(23, 110).
+edge(24, 39).
+edge(24, 43).
+edge(24, 51).
+edge(24, 110).
+edge(25, 42).
+edge(25, 46).
+edge(25, 52).
+edge(25, 110).
+edge(26, 41).
+edge(26, 45).
+edge(26, 52).
+edge(26, 110).
+edge(27, 44).
+edge(27, 48).
+edge(27, 53).
+edge(27, 110).
+edge(28, 43).
+edge(28, 47).
+edge(28, 53).
+edge(28, 110).
+edge(29, 46).
+edge(29, 49).
+edge(29, 54).
+edge(29, 110).
+edge(30, 45).
+edge(30, 49).
+edge(30, 54).
+edge(30, 110).
+edge(31, 47).
+edge(31, 48).
+edge(31, 50).
+edge(31, 51).
+edge(31, 52).
+edge(31, 53).
+edge(31, 54).
+edge(31, 110).
+edge(32, 39).
+edge(32, 40).
+edge(32, 49).
+edge(32, 51).
+edge(32, 52).
+edge(32, 53).
+edge(32, 54).
+edge(32, 110).
+edge(33, 41).
+edge(33, 42).
+edge(33, 49).
+edge(33, 50).
+edge(33, 52).
+edge(33, 53).
+edge(33, 54).
+edge(33, 110).
+edge(34, 43).
+edge(34, 44).
+edge(34, 49).
+edge(34, 50).
+edge(34, 51).
+edge(34, 53).
+edge(34, 54).
+edge(34, 110).
+edge(35, 45).
+edge(35, 46).
+edge(35, 49).
+edge(35, 50).
+edge(35, 51).
+edge(35, 52).
+edge(35, 54).
+edge(35, 110).
+edge(36, 47).
+edge(36, 48).
+edge(36, 49).
+edge(36, 50).
+edge(36, 51).
+edge(36, 52).
+edge(36, 53).
+edge(36, 110).
+edge(37, 56).
+edge(37, 58).
+edge(37, 111).
+edge(38, 55).
+edge(38, 57).
+edge(38, 111).
+edge(39, 56).
+edge(39, 60).
+edge(39, 68).
+edge(39, 111).
+edge(40, 55).
+edge(40, 59).
+edge(40, 68).
+edge(40, 111).
+edge(41, 58).
+edge(41, 62).
+edge(41, 69).
+edge(41, 111).
+edge(42, 57).
+edge(42, 61).
+edge(42, 69).
+edge(42, 111).
+edge(43, 60).
+edge(43, 64).
+edge(43, 70).
+edge(43, 111).
+edge(44, 59).
+edge(44, 63).
+edge(44, 70).
+edge(44, 111).
+edge(45, 62).
+edge(45, 66).
+edge(45, 71).
+edge(45, 111).
+edge(46, 61).
+edge(46, 65).
+edge(46, 71).
+edge(46, 111).
+edge(47, 64).
+edge(47, 67).
+edge(47, 72).
+edge(47, 111).
+edge(48, 63).
+edge(48, 67).
+edge(48, 72).
+edge(48, 111).
+edge(49, 65).
+edge(49, 66).
+edge(49, 68).
+edge(49, 69).
+edge(49, 70).
+edge(49, 71).
+edge(49, 72).
+edge(49, 111).
+edge(50, 57).
+edge(50, 58).
+edge(50, 67).
+edge(50, 69).
+edge(50, 70).
+edge(50, 71).
+edge(50, 72).
+edge(50, 111).
+edge(51, 59).
+edge(51, 60).
+edge(51, 67).
+edge(51, 68).
+edge(51, 70).
+edge(51, 71).
+edge(51, 72).
+edge(51, 111).
+edge(52, 61).
+edge(52, 62).
+edge(52, 67).
+edge(52, 68).
+edge(52, 69).
+edge(52, 71).
+edge(52, 72).
+edge(52, 111).
+edge(53, 63).
+edge(53, 64).
+edge(53, 67).
+edge(53, 68).
+edge(53, 69).
+edge(53, 70).
+edge(53, 72).
+edge(53, 111).
+edge(54, 65).
+edge(54, 66).
+edge(54, 67).
+edge(54, 68).
+edge(54, 69).
+edge(54, 70).
+edge(54, 71).
+edge(54, 111).
+edge(55, 74).
+edge(55, 76).
+edge(55, 112).
+edge(56, 73).
+edge(56, 75).
+edge(56, 112).
+edge(57, 74).
+edge(57, 78).
+edge(57, 86).
+edge(57, 112).
+edge(58, 73).
+edge(58, 77).
+edge(58, 86).
+edge(58, 112).
+edge(59, 76).
+edge(59, 80).
+edge(59, 87).
+edge(59, 112).
+edge(60, 75).
+edge(60, 79).
+edge(60, 87).
+edge(60, 112).
+edge(61, 78).
+edge(61, 82).
+edge(61, 88).
+edge(61, 112).
+edge(62, 77).
+edge(62, 81).
+edge(62, 88).
+edge(62, 112).
+edge(63, 80).
+edge(63, 84).
+edge(63, 89).
+edge(63, 112).
+edge(64, 79).
+edge(64, 83).
+edge(64, 89).
+edge(64, 112).
+edge(65, 82).
+edge(65, 85).
+edge(65, 90).
+edge(65, 112).
+edge(66, 81).
+edge(66, 85).
+edge(66, 90).
+edge(66, 112).
+edge(67, 83).
+edge(67, 84).
+edge(67, 86).
+edge(67, 87).
+edge(67, 88).
+edge(67, 89).
+edge(67, 90).
+edge(67, 112).
+edge(68, 75).
+edge(68, 76).
+edge(68, 85).
+edge(68, 87).
+edge(68, 88).
+edge(68, 89).
+edge(68, 90).
+edge(68, 112).
+edge(69, 77).
+edge(69, 78).
+edge(69, 85).
+edge(69, 86).
+edge(69, 88).
+edge(69, 89).
+edge(69, 90).
+edge(69, 112).
+edge(70, 79).
+edge(70, 80).
+edge(70, 85).
+edge(70, 86).
+edge(70, 87).
+edge(70, 89).
+edge(70, 90).
+edge(70, 112).
+edge(71, 81).
+edge(71, 82).
+edge(71, 85).
+edge(71, 86).
+edge(71, 87).
+edge(71, 88).
+edge(71, 90).
+edge(71, 112).
+edge(72, 83).
+edge(72, 84).
+edge(72, 85).
+edge(72, 86).
+edge(72, 87).
+edge(72, 88).
+edge(72, 89).
+edge(72, 112).
+edge(73, 92).
+edge(73, 94).
+edge(73, 113).
+edge(74, 91).
+edge(74, 93).
+edge(74, 113).
+edge(75, 92).
+edge(75, 96).
+edge(75, 104).
+edge(75, 113).
+edge(76, 91).
+edge(76, 95).
+edge(76, 104).
+edge(76, 113).
+edge(77, 94).
+edge(77, 98).
+edge(77, 105).
+edge(77, 113).
+edge(78, 93).
+edge(78, 97).
+edge(78, 105).
+edge(78, 113).
+edge(79, 96).
+edge(79, 100).
+edge(79, 106).
+edge(79, 113).
+edge(80, 95).
+edge(80, 99).
+edge(80, 106).
+edge(80, 113).
+edge(81, 98).
+edge(81, 102).
+edge(81, 107).
+edge(81, 113).
+edge(82, 97).
+edge(82, 101).
+edge(82, 107).
+edge(82, 113).
+edge(83, 100).
+edge(83, 103).
+edge(83, 108).
+edge(83, 113).
+edge(84, 99).
+edge(84, 103).
+edge(84, 108).
+edge(84, 113).
+edge(85, 101).
+edge(85, 102).
+edge(85, 104).
+edge(85, 105).
+edge(85, 106).
+edge(85, 107).
+edge(85, 108).
+edge(85, 113).
+edge(86, 93).
+edge(86, 94).
+edge(86, 103).
+edge(86, 105).
+edge(86, 106).
+edge(86, 107).
+edge(86, 108).
+edge(86, 113).
+edge(87, 95).
+edge(87, 96).
+edge(87, 103).
+edge(87, 104).
+edge(87, 106).
+edge(87, 107).
+edge(87, 108).
+edge(87, 113).
+edge(88, 97).
+edge(88, 98).
+edge(88, 103).
+edge(88, 104).
+edge(88, 105).
+edge(88, 107).
+edge(88, 108).
+edge(88, 113).
+edge(89, 99).
+edge(89, 100).
+edge(89, 103).
+edge(89, 104).
+edge(89, 105).
+edge(89, 106).
+edge(89, 108).
+edge(89, 113).
+edge(90, 101).
+edge(90, 102).
+edge(90, 103).
+edge(90, 104).
+edge(90, 105).
+edge(90, 106).
+edge(90, 107).
+edge(90, 113).
+edge(91, 109).
+edge(91, 114).
+edge(92, 109).
+edge(92, 114).
+edge(93, 109).
+edge(93, 114).
+edge(94, 109).
+edge(94, 114).
+edge(95, 109).
+edge(95, 114).
+edge(96, 109).
+edge(96, 114).
+edge(97, 109).
+edge(97, 114).
+edge(98, 109).
+edge(98, 114).
+edge(99, 109).
+edge(99, 114).
+edge(100, 109).
+edge(100, 114).
+edge(101, 109).
+edge(101, 114).
+edge(102, 109).
+edge(102, 114).
+edge(103, 109).
+edge(103, 114).
+edge(104, 109).
+edge(104, 114).
+edge(105, 109).
+edge(105, 114).
+edge(106, 109).
+edge(106, 114).
+edge(107, 109).
+edge(107, 114).
+edge(108, 109).
+edge(108, 114).
+edge(109, 110).
+edge(109, 111).
+edge(109, 112).
+edge(109, 113).
+edge(109, 114).
+edge(110, 111).
+edge(110, 112).
+edge(110, 113).
+edge(110, 114).
+edge(111, 112).
+edge(111, 113).
+edge(111, 114).
+edge(112, 113).
+edge(112, 114).
+edge(113, 114).
