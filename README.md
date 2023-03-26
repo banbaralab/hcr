@@ -14,7 +14,7 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
 
 ## Sample session
 ### Hamiltonian Cycle Problems
-The following command solves HCP and checks whether the solution set represents a Hamiltonian cycle on the graph represented by ```graph_example.lp```.
+The following commands solve HCP and check whether the solution set represents a Hamiltonian cycle on the graph represented by ```graph_example.lp```.
 ```
 $ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log
 clingo version 5.5.0
@@ -33,7 +33,7 @@ $ python bin/hamilton_check.py bench/hcp/tiny/graph_example.lp hcp.log 1 1
 verify: OK
 ```
 ### Hamiltonian Cycle Reconfiguration Problems
-The following command solves the HCRP and checks whether the sequence of Hamiltonian cycles represented by the solution set satisfies the constraints of the HCRP.
+The following commands solve the HCRP and check whether the sequence of Hamiltonian cycles represented by the solution set satisfies the constraints of the HCRP.
 ```
 $ clingo recongo/core_compet2.lp hcr-bidirectional.lp bench/hcp/tiny/graph_example.lp bench/hcrp/startgoal_example.lp --config=trendy -c core_max=2 -c k=3 -c s=1 > hcrp.log
 clingo version 5.5.0
