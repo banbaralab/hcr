@@ -15,6 +15,18 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
 The following command solve a HCP. ??
 ```
 $ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log
+clingo version 5.5.0
+Reading from bidirectional.lp ...
+Solving...
+Answer: 1
+in(1,2) in(6,1) in(3,6) in(2,4) in(5,3) in(4,5)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 1
+Time         : 0.019s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.005s
+
 $ python bin/hamilton_check.py bench/hcp/tiny/graph_example.lp hcp.log 1 1
 verify: OK
 ```
