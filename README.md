@@ -21,7 +21,7 @@ verify: OK
 ### Hamiltonian Cycle Reconfiguration Problems
 ??
 ```
-$ clingo recongo/core_compet2.lp hcr_bidirectional.lp bench/hcp/tiny/graph_example.lp bench/hcrp/startgoal_example.lp --config=trendy -c core_max=2 -c k=3 -c s=1 > hcrp.log
+$ clingo recongo/core_compet2.lp hcr-bidirectional.lp bench/hcp/tiny/graph_example.lp bench/hcrp/startgoal_example.lp --config=trendy -c core_max=2 -c k=3 -c s=1 > hcrp.log
 clingo version 5.5.0
 Reading from recongo/core_compet2.lp ...
 c recongo competition version: an ASP-based CoRe Solver
