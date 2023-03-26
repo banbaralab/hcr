@@ -14,8 +14,6 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
 
 ## Sample session
 ### Hamiltonian Cycle Problems
-The following command solve a HCP. ??
-次のコマンドは，HCPを解き，解集合がハミルトン閉路を表しているかをチェックします．
 The following command solves HCP and checks whether the solution set represents a Hamiltonian cycle on the graph represented by ```graph_example.lp```.
 ```
 $ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log
