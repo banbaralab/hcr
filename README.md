@@ -17,8 +17,8 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
 The following commands solve HCP and check whether the solution set represents a Hamiltonian cycle on the graph represented by ```graph_example.lp```.
    + ```s``` : Starting node of the Hamiltonian cycle.
 ```
-$ clingo bidirectional.lp bench/hcp/tiny/graph_example.lp --config=trendy -c s=1 > hcp.log
-$ python bin/hamilton_check.py bench/hcp/tiny/graph_example.lp hcp.log 1 1
+$ clingo bidirectional.lp bench/hcp/graph_example.lp --config=trendy -c s=1 > hcp.log
+$ python bin/hamilton_check.py bench/hcp/graph_example.lp hcp.log 1 1
 verify: OK
 ```
 ### Hamiltonian Cycle Reconfiguration Problems
@@ -27,7 +27,7 @@ The following commands solve the HCRP and check whether the sequence of Hamilton
    + ```k``` : It represents ```k``` of ```k```-opt constraint.
    + ```s``` : Starting node of the Hamiltonian cycle.
 ```
-$ clingo recongo/core_compet2.lp hcr-bidirectional.lp bench/hcp/tiny/graph_example.lp bench/hcrp/startgoal_example.lp --config=trendy -c core_max=2 -c k=3 -c s=1 > hcrp.log
+$ clingo recongo/core_compet2.lp hcr-bidirectional.lp bench/hcp/graph_example.lp bench/hcrp/startgoal_example.lp --config=trendy -c core_max=2 -c k=3 -c s=1 > hcrp.log
 $ python bin/hcrp_decode.py bench/hcrp/orig/graph_example.dat hcrp.log > hcrp.sol  
 $ python bin/hcrp_checker.py bench/hcrp/orig/graph_example.hcp bench/hcrp/orig/graph_example.dat hcrp.sol 3
 c searching hc0...
