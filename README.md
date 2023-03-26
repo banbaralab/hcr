@@ -6,10 +6,10 @@ asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Pr
    + recongo (version 0.2 or higher)
    + Python3 (only for solution checker)
 ## Encodings
-   + bidirectional : ??
-   + acyclic : ??
-   + undirected : ??
-   + directed : ??
+   + bidirectional : Enoding that solves HCP by bidirectionalizing an undirected graph by mapping each edge u - v on a Hamiltonian closed circuit to one of two arcs u → v and v → u.
+   + acyclic : Encoding that solves HCP by using constraints that prohibit partially cycles.
+   + undirected : Existing standard encoding.
+   + directed : Encoding for solving HCP on directed graphs with additional preprocessing.
 ## Sample session
 ### Hamiltonian Cycle Problems
 The following command solve a HCP. ??
