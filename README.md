@@ -1,4 +1,4 @@
-# asphamiltonian
+# Hamiltonian Cycle Reconfiguration with Answer Set Programming
 asphamiltonian is a collection of ASP encodings for solving Hamiltonian Cycle Problems and Hamiltonian Cycle Reconfiguration Problems(HCP and HCRP, in short).
 ## Citing
 ## Requirements
